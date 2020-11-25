@@ -11,7 +11,7 @@ Yang mana pada praktikum 4 ini terdapat beberapa soal seperti yang ada dibawah i
 
 Adapun hasil akhir yang diberikan dosen saya sebagai contoh output dari semua tugas diatas.
 
-![CONTOH OUTPUT](https://user-images.githubusercontent.com/72906579/100117156-1912a300-2ea7-11eb-975f-860fa89d783d.png)
+![hasil7](https://user-images.githubusercontent.com/72905634/100208870-0ce61000-2ebe-11eb-95c2-4e6ce39e180d.png)S
 _________________________________________________________________________________________________
 Pada soal pertama, yang dimana disini saya diminta untuk memasukan data sebanyak-banyaknya. Jadi disini saya akan mencoba memasukan beberapa data diantaranya seperti **NAMA, NIM, NILAI TUGAS, NILAI UTS** dan yang terakhir **NILAI UAS**
 
@@ -25,7 +25,8 @@ uas = int(input("NILAI UAS: "))
 ```
 Setelah memasukan syntax diatas dan kalian run, maka akan mendapatkan hasil output seperti gambar dibawah ini
 
-![MASUKIN DATA](https://user-images.githubusercontent.com/72906579/100113608-157d1d00-2ea3-11eb-865b-93cf364315e6.png)
+![hasil8](https://user-images.githubusercontent.com/72905634/100209401-b1685200-2ebe-11eb-9b80-bedbe1e44b19.png)
+
 ______________________________________________________________________________________________________________________________________
 Lanjut pada soal kedua, yang dimana saya diminta untuk membuat sebuah pernyataan **YA/TIDAK** pada pertanyaan 'apakah ingin menambahkan sebuah data?'
 
